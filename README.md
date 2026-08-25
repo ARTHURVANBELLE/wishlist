@@ -39,9 +39,8 @@ This page is easy to read and easy for me to update.
 
 - [ ] Perfly badminton shuttlecocks (not accepted by my club anymore)
 - [ ] Low quality tools
-- [ ] 
 
 ---
-- Clothing size:
-- Shoe size:
-- Anything else helpful:
+- Clothing size: L-XL
+- Shoe size: 43
+- Height: 1.85m
