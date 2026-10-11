@@ -12,6 +12,11 @@ This page is easy to read and easy for me to update.
   _Budget:_ ~€70  
   _Link:_ [https://...](https://www.mediamarkt.be/fr/product/_logitech-souris-sans-fil-mx-vertical-advanced-ergonomic-1759619.html)
 
+- [ ] **Garmin Bicycle GPS** —  
+  _Details:_ GPS à fixer sur le guidon du vélo, autonomie 16h 
+  _Budget:_ ~€260  
+  _Link:_ [https://...]([https://www.mediamarkt.be/fr/product/_logitech-souris-sans-fil-mx-vertical-advanced-ergonomic-1759619.html](https://www.garmin.com/fr-BE/p/802162/pn/010-02703-10/#overview))
+
 ---
 
 ## 🙂 Nice-to-have
